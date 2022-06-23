@@ -19,7 +19,7 @@
     "coop-frontend-toolkit": "^2.1.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.1.1",
-    "jsdom": "^11.5.1",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "mocha": "^5.0.0",
     "node-sass": "^4.7.2",
